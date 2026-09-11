@@ -1,0 +1,12 @@
+{
+  "afik-ux-001": {
+    "hwid": "3fa62bbe508a2e0ba0e8",
+    "active": true,
+    "expires": "2027-12-31"
+  },
+  "afik-ux-002": {
+    "hwid": "2c9cb0ed0c4d09f3ff0e",
+    "active": true,
+    "expires": "2027-12-31"
+  }
+}
