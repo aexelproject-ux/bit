@@ -29,21 +29,6 @@
     "active": true,
     "expires": "2027-12-31"
   }
-"afik-ux-001": {
-    "hwid": "3fa62bbe508a2e0ba0e8",
-    "active": true,
-    "expires": "2027-12-31"
-  },
-  "afik fashion-ux-002": {
-    "hwid": "a2034c17732a5a5c3a94",
-    "active": true,
-    "expires": "2027-12-31"
-    },
-  "afik fashion-ux-002": {
-    "hwid": "afa730684bdd35a04404",
-    "active": true,
-    "expires": "2027-12-31"
-  }
 }
 
 
