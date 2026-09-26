@@ -1,30 +1,30 @@
 {
-  "arsala": {
+    "arsala": {
     "hwid": "098fb02a0fe9917c95d3",
     "active": true,
     "expires": "2027-12-31"
   },
-  "arsala busana": {
+    "arsala busana": {
     "hwid": "9aa12324269a4fec8902",
     "active": true,
     "expires": "2027-12-31"
     },
-  "sala": {
+    "sala": {
     "hwid": "c4745bfde3b038126d1b",
     "active": true,
     "expires": "2027-12-31"
   }
-  "ara": {
+    "ara": {
     "hwid": "a2034c17732a5a5c3a94",
     "active": true,
     "expires": "2027-12-31"
   },
-  "diva": {
+    "diva": {
     "hwid": "afa730684bdd35a04404",
     "active": true,
     "expires": "2027-12-31"
     },
-  "afik fashion-ux-002": {
+    "afik fashion-ux-002": {
     "hwid": "c4745bfde3b038126d1b",
     "active": true,
     "expires": "2027-12-31"
